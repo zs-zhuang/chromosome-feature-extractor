@@ -1,5 +1,6 @@
 chromosome-feature-extractor
 ===========
+<img src="https://github.com/zs-zhuang/chromosome-feature-extractor/blob/main/images/original.JPG"> <img src="https://github.com/zs-zhuang/chromosome-feature-extractor/blob/main/images/skeleton.JPG">
 
 # Summary
 
