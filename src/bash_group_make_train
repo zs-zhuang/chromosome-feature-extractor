@@ -1,0 +1,23 @@
+#!/bin/bash
+
+
+cat C1/clean_feat_only C2/clean_feat_only C3/clean_feat_only C4/clean_feat_only C5/clean_feat_only C6/clean_feat_only C7/clean_feat_only C8/clean_feat_only C9/clean_feat_only C10/clean_feat_only C11/clean_feat_only C12/clean_feat_only C23/clean_feat_only > mlp_group/group1_feature_data
+
+cat C13/clean_feat_only C14/clean_feat_only C15/clean_feat_only C16/clean_feat_only C17/clean_feat_only C18/clean_feat_only C19/clean_feat_only C20/clean_feat_only C21/clean_feat_only C22/clean_feat_only C24/clean_feat_only > mlp_group/group2_feature_data
+
+
+#cat C1/clean_feat_only C2/clean_feat_only C3/clean_feat_only  > mlp_group/group1_feature_data
+
+#cat C4/clean_feat_only C5/clean_feat_only  > mlp_group/group2_feature_data
+
+#cat C6/clean_feat_only C7/clean_feat_only C8/clean_feat_only C9/clean_feat_only C10/clean_feat_only C11/clean_feat_only C12/clean_feat_only C23/clean_feat_only > mlp_group/group3_feature_data
+
+#cat C13/clean_feat_only C14/clean_feat_only C15/clean_feat_only > mlp_group/group4_feature_data
+
+#cat C16/clean_feat_only C17/clean_feat_only C18/clean_feat_only > mlp_group/group5_feature_data
+
+#cat C19/clean_feat_only C20/clean_feat_only > mlp_group/group6_feature_data
+
+#cat C21/clean_feat_only C22/clean_feat_only C24/clean_feat_only > mlp_group/group7_feature_data
+
+

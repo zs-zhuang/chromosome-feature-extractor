@@ -1,0 +1,121 @@
+#!/bin/bash
+
+cp C1/bash_clean ../C2
+cp C1/bash_clean ../C3
+cp C1/bash_clean ../C4
+cp C1/bash_clean ../C5
+cp C1/bash_clean ../C6
+cp C1/bash_clean ../C7
+cp C1/bash_clean ../C8
+cp C1/bash_clean ../C9
+cp C1/bash_clean ../C10
+cp C1/bash_clean ../C11
+cp C1/bash_clean ../C12
+cp C1/bash_clean ../C13
+cp C1/bash_clean ../C14
+cp C1/bash_clean ../C15
+cp C1/bash_clean ../C16
+cp C1/bash_clean ../C17
+cp C1/bash_clean ../C18
+cp C1/bash_clean ../C19
+cp C1/bash_clean ../C20
+cp C1/bash_clean ../C21
+cp C1/bash_clean ../C22
+cp C1/bash_clean ../C23
+cp C1/bash_clean ../C24
+
+cd C1/
+./bash_clean
+cd ../
+
+cd C2/
+./bash_clean
+cd ../
+
+cd C3/
+./bash_clean
+cd ../
+
+cd C4/
+./bash_clean
+cd ../
+
+cd C5/
+./bash_clean
+cd ../
+
+cd C6/
+./bash_clean
+cd ../
+
+cd C7/
+./bash_clean
+cd ../
+
+cd C8/
+./bash_clean
+cd ../
+
+cd C9/
+./bash_clean
+cd ../
+
+cd C10/
+./bash_clean
+cd ../
+
+cd C11/
+./bash_clean
+cd ../
+
+cd C12/
+./bash_clean
+cd ../
+
+cd C13/
+./bash_clean
+cd ../
+
+cd C14/
+./bash_clean
+cd ../
+
+cd C15/
+./bash_clean
+cd ../
+
+cd C16/
+./bash_clean
+cd ../
+
+cd C17/
+./bash_clean
+cd ../
+
+cd C18/
+./bash_clean
+cd ../
+
+cd C19/
+./bash_clean
+cd ../
+
+cd C20/
+./bash_clean
+cd ../
+
+cd C21/
+./bash_clean
+cd ../
+
+cd C22/
+./bash_clean
+cd ../
+
+cd C23/
+./bash_clean
+cd ../
+
+cd C24/
+./bash_clean
+cd ../

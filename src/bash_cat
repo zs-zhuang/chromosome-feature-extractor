@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+cat group1_target group2_target > train_target_data
+cat group1_feature_data group2_feature_data > train_feature_data
+
+
+#cat group1_target group2_target group3_target group4_target group5_target group6_target group7_target > train_target_data
+
+#cat group1_feature_data group2_feature_data group3_feature_data group4_feature_data group5_feature_data group6_feature_data group7_feature_data > train_feature_data

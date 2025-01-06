@@ -1,0 +1,38 @@
+#!/bin/bash
+
+
+#cat C1/label_only C2/label_only C3/label_only C4/label_only C5/label_only C6/label_only C7/label_only C8/label_only > mlp/train_target_data
+
+#cat C1/feat_only C2/feat_only C3/feat_only C4/feat_only C5/feat_only C6/feat_only C7/feat_only C8/feat_only  > mlp/train_feature_data
+
+
+#cat C1/label_only C2/label_only C3/label_only C4/label_only > mlp/train_target_data
+#cat C1/feat_only C2/feat_only C3/feat_only C4/feat_only > mlp/train_feature_data
+
+#cat C6/label_only C7/label_only > mlp/train_target_data
+#cat C6/feat_only C7/feat_only > mlp/train_feature_data
+
+
+#cat C1/feat_only C2/feat_only C3/feat_only > mlp_7groups/group1_42feature_data
+#cat C4/feat_only C5/feat_only > mlp_7groups/group2_42feature_data
+#cat C6/feat_only C7/feat_only C8/feat_only C9/feat_only C10/feat_only C11/feat_only C12/feat_only C23/feat_only > mlp_7groups/group3_42feature_data
+#cat C13/feat_only C14/feat_only C15/feat_only > mlp_7groups/group4_42feature_data
+#cat C16/feat_only C17/feat_only C18/feat_only > mlp_7groups/group5_42feature_data
+#cat C19/feat_only C20/feat_only > mlp_7groups/group6_42feature_data
+#cat C21/feat_only C22/feat_only C24/feat_only > mlp_7groups/group7_42feature_data
+
+
+
+#cat C1/feat_only C2/feat_only C3/feat_only C4/feat_only C5/feat_only > mlp_3groups/group1_42feature_data
+#cat C6/feat_only C7/feat_only C8/feat_only C9/feat_only C10/feat_only C11/feat_only C12/feat_only C13/feat_only C14/feat_only C15/feat_only C23/feat_only > mlp_3groups/group2_42feature_data 
+#cat C16/feat_only C17/feat_only C18/feat_only C19/feat_only C20/feat_only C21/feat_only C22/feat_only C24/feat_only > mlp_3groups/group3_42feature_data
+
+
+cat C1/label_only C2/label_only C3/label_only C4/label_only C5/label_only C6/label_only C7/label_only C8/label_only C9/label_only C10/label_only C11/label_only C12/label_only C13/label_only C14/label_only C15/label_only C16/label_only C17/label_only C18/label_only C19/label_only C20/label_only C21/label_only C22/label_only C23/label_only C24/label_only > mlp/train_target_data
+
+cat C1/feat_only C2/feat_only C3/feat_only C4/feat_only C5/feat_only C6/feat_only C7/feat_only C8/feat_only C9/feat_only C10/feat_only C11/feat_only C12/feat_only C13/feat_only C14/feat_only C15/feat_only C16/feat_only C17/feat_only C18/feat_only C19/feat_only C20/feat_only C21/feat_only C22/feat_only C23/feat_only C24/feat_only > mlp/train_feature_data
+
+
+
+
+

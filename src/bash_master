@@ -1,0 +1,17 @@
+#!/bin/bash
+
+
+./log_contrast.py $1
+./invert.py $1
+./saltpepper.py $1
+./ToBinary.py $1
+./ToSkeleton.py $1
+./get_skeleton_position.py $1
+./sort_skeleton.py $1
+
+
+./curvefit.py $1
+./extend_skeleton.py $1
+./band_shape_profile.py $1
+./shape_poly4fit.py $1
+./feature_chromosome.py $1 1.0

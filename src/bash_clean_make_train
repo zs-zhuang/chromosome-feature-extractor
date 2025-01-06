@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+cat C1/clean_label_only C2/clean_label_only C3/clean_label_only > clean_mlp/train_target_data
+cat C1/clean_feat_only C2/clean_feat_only C3/clean_feat_only > clean_mlp/train_feature_data
+
+
+#cat C1/clean_label_only C2/clean_label_only C3/clean_label_only C4/clean_label_only C5/clean_label_only C6/clean_label_only C7/clean_label_only C8/clean_label_only C9/clean_label_only C10/clean_label_only C11/clean_label_only C12/clean_label_only C13/clean_label_only C14/clean_label_only C15/clean_label_only C16/clean_label_only C17/clean_label_only C18/clean_label_only C19/clean_label_only C20/clean_label_only C21/clean_label_only C22/clean_label_only C23/clean_label_only C24/clean_label_only > clean_mlp/train_target_data
+
+#cat C1/clean_feat_only C2/clean_feat_only C3/clean_feat_only C4/clean_feat_only C5/clean_feat_only C6/clean_feat_only C7/clean_feat_only C8/clean_feat_only C9/clean_feat_only C10/clean_feat_only C11/clean_feat_only C12/clean_feat_only C13/clean_feat_only C14/clean_feat_only C15/clean_feat_only C16/clean_feat_only C17/clean_feat_only C18/clean_feat_only C19/clean_feat_only C20/clean_feat_only C21/clean_feat_only C22/clean_feat_only C23/clean_feat_only C24/clean_feat_only > clean_mlp/train_feature_data
+
+
+
+
+
